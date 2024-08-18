@@ -1,2 +1,2 @@
-# Customer-Churn-Prediction
+# Telecom Customer-Churn-Prediction
 Customer Churn Prediction in Telecommunication Industry
